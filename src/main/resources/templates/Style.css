@@ -1,0 +1,75 @@
+body {
+	background-color: #080808;
+	color: #fbf7f5;
+	font-family: "Copperplate";
+	font-size: 22px;
+	font-weight: bold;
+}
+.logo {
+	text-align: center;
+	font-size: 50px; width : 300px;
+	height: 300px;
+	position: absolute;
+	top: 25%;
+	left: 26%;
+	padding: 20px;
+	border: 3px solid white;
+	font-family: "Copperplate";
+	width: 300px;
+}
+.textLogo {
+	position: absolute;
+	top: 15%;
+	width: 0%;
+}
+.Conversion {
+	text-align: center; background-color : black;
+	border-radius: 10px;
+	position: absolute;
+	top: 24%;
+	left: 51%;
+	padding: 20px;
+	height: 320px;
+	width: 300px;
+	background-color: black
+}
+.tinyLogo {
+	color: white;
+	position: absolute;
+	top: 0%; left : 2%;
+	font-family: "Copperplate";
+	left: 2%;
+}
+button {
+	background-color: #fbf7f5;
+	border: none;
+	color: #313638;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 8px;
+	font-family: "Copperplate";
+}
+input {
+	border-radius: 8px;
+	height: 40px;
+	font-size: 22px;
+}
+select {
+	border-radius: 8px;
+}
+.amount {
+	font-size: 28px;
+}
+.result {
+	font-size: 50px;
+	position: absolute;
+	top: 70%;
+	left: 40%;
+}
+span{
+	color:red;
+	font-size: 15px;	
+}
